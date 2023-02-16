@@ -13,8 +13,6 @@ from Ejercicios.prueba_primalidad import run as prueba_primalidad_run
 from Ejercicios.recorrer import run as recorrer_run
 
 
-
-
 def run():
     opcion = 15
     while opcion != 14:
