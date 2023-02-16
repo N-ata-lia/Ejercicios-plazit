@@ -1,16 +1,16 @@
-from Conversor.adivina_el_numero import run as adivina_el_numero_run
-from Conversor.bucles import run as bucles_run
-from Conversor.break_continue import run as break_continue_run
-from Conversor.conversor import run as conversor_run
-from Conversor.condicionales import run as condicionales_run
-from Conversor.diccionarios import run as diccionarios_run
-from Conversor.diccionario_picachu import run as diccionario_picachu_run
-from Conversor.contador import run as contador_run
-from Conversor.funciones import run as funciones_run
-from Conversor.generador_contrasena import run as generador_contrasena_run
-from Conversor.palindromo import run as palindromo_run
-from Conversor.prueba_primalidad import run as prueba_primalidad_run
-from Conversor.recorrer import run as recorrer_run
+from Ejercicios.adivina_el_numero import run as adivina_el_numero_run
+from Ejercicios.bucles import run as bucles_run
+from Ejercicios.break_continue import run as break_continue_run
+from Ejercicios.conversor import run as conversor_run
+from Ejercicios.condicionales import run as condicionales_run
+from Ejercicios.diccionarios import run as diccionarios_run
+from Ejercicios.diccionario_picachu import run as diccionario_picachu_run
+from Ejercicios.contador import run as contador_run
+from Ejercicios.funciones import run as funciones_run
+from Ejercicios.generador_contrasena import run as generador_contrasena_run
+from Ejercicios.palindromo import run as palindromo_run
+from Ejercicios.prueba_primalidad import run as prueba_primalidad_run
+from Ejercicios.recorrer import run as recorrer_run
 
 
 
