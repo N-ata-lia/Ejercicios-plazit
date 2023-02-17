@@ -7,10 +7,11 @@ def run ():
     gigglypuff ={
         "Vida": 100,
         "Ataque": 20,
+        " turno": 1,
     }
 
-    turno = 1
-    while picachu > 0 and gigglypuff > 0:
+        
+    while picachu Vida > 0 and gigglypuff Vida > 0:
         if turno == 1:
             Vida = Vida - Ataque
             turno = 0
