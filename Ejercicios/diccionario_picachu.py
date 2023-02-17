@@ -1,12 +1,12 @@
 def run ():
     picachu = {
-        "vida" = 100,
-        "ataque" = 30,
+        "Vida" = 100,
+        "Ataque" = 30,
     }
 
     gigglypuff ={
-        "vida" = 100,
-        "ataque" = 20,
+        "Vida" = 100,
+        "Ataque" = 20,
     }
 
         turno = 1
