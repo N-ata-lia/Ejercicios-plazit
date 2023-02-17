@@ -1,15 +1,15 @@
 def run ():
     picachu = {
-        "Vida" = 100,
-        "Ataque" = 30,
+        "Vida": 100,
+        "Ataque": 30,
     }
 
     gigglypuff ={
-        "Vida" = 100,
-        "Ataque" = 20,
+        "Vida": 100,
+        "Ataque": 20,
     }
 
-        turno = 1
+    turno = 1
     while Vida > 0 and Vida > 0:
         if turno == 1:
             gigglypuff  Vida = gigglypuff Vida - picachu Ataque
