@@ -15,7 +15,7 @@ def run ():
             Vida = Vida - Ataque
             turno = 0
         if turno == 0:
-            picachu Vida = picachu Vida - gigglypuff Ataque
+            Vida = Vida - Ataque
             turno = 1
     print("el gandor fue: ")
     if picachu Vida > 0:
