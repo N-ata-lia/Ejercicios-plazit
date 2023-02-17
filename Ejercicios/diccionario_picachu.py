@@ -10,7 +10,7 @@ def run ():
     }
 
         turno = 1
-    while picachu Vida > 0 and gigglypuff Vida > 0:
+    while Vida > 0 and Vida > 0:
         if turno == 1:
             gigglypuff  Vida = gigglypuff Vida - picachu Ataque
             turno = 0
