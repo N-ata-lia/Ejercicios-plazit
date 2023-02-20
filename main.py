@@ -4,7 +4,7 @@ from Ejercicios.break_continue import run as break_continue_run
 from Ejercicios.conversor import run as conversor_run
 from Ejercicios.condicionales import run as condicionales_run
 from Ejercicios.diccionarios import run as diccionarios_run
-#from Ejercicios.diccionario_picachu import run as diccionario_picachu_run
+from Ejercicios.diccionario_picachu import run as diccionario_picachu_run
 from Ejercicios.contador import run as contador_run
 from Ejercicios.funciones import run as funciones_run
 from Ejercicios.generador_contrasena import run as generador_contrasena_run
