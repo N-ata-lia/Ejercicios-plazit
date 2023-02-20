@@ -26,7 +26,10 @@ def run():
     # else:
     #     print('Escribe la opción correcta')
 
-    def suma(a, b):
+    def suma(a:int|float, b:int|float) -> int |float:
+        """
+        La funcion recibe dos numeros enteros y flotantes y retomar a la suma de dos numeros.
+        """
         print('Se suman dos números')
         resultado = a + b
         return resultado
